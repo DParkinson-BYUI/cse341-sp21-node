@@ -1,0 +1,23 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "demo code for Node.js",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DParkinson-BYUI/cse341-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Drew Parkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DParkinson-BYUI/cse341-node/issues"
+  },
+  "homepage": "https://github.com/DParkinson-BYUI/cse341-node#readme"
+}
